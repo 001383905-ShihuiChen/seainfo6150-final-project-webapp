@@ -1,0 +1,29 @@
+.container{
+    background:rgb(245, 156, 174);
+    display:block;
+    color:rgb(84, 54, 54);
+    text-align: center;
+}
+.list{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 24px;
+    padding-right: 24px;
+    height: 70px;
+    
+}
+.navContainer{
+    background-image: url("../images/navBarImg.jpg");
+    height:50px;
+    width:500px;
+  border: 1px solid #c00;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px 5px rgba(0, 0, 0, 0.3);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+  padding: 30px;
+  text-align: center;
+  list-style-type: none;
+}

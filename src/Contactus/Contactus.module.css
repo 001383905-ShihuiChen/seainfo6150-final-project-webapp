@@ -1,0 +1,19 @@
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: rgb(24, 8, 5);
+    text-align: center;
+    list-style: none;
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+}
+.container{
+    
+    background-attachment: scroll;
+    
+    background-image: url("../images/navBarImg.jpg");
+    height: 1000px;
+    
+}

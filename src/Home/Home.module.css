@@ -1,0 +1,33 @@
+
+.img{
+    height: 1000px;
+    width: 1000px;
+    margin-left: auto; 
+    margin-right:auto; 
+    display:block;
+}
+.form{
+    background: #999;
+}
+
+.list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    grid-template-rows: 1fr;
+    gap: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    float:left;
+}
+
+.text{
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.homeImg{
+    background-image: url("../images/homeImg.jpg");
+}

@@ -1,0 +1,19 @@
+.imageStyle {
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px;
+    border-radius: 15px;
+  }
+  
+  .imageStyle img {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 15px;
+  
+  }
+  

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the RecipeImage component correctly 1`] = `
+<div>
+  <div
+    class="imageStyle"
+  >
+    <img
+      src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536480.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    />
+  </div>
+</div>
+`;
+
+exports[`renders the RecipeListImage component correctly 1`] = `
+<div>
+  <div
+    class="imageStyle"
+  >
+    <img
+      src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536480.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    />
+  </div>
+</div>
+`;

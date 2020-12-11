@@ -1,5 +1,127 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`renders the Home component correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <h1
+        class="container"
+      >
+        Wonderful Recipe
+      </h1>
+      <nav>
+        <ul
+          class="list"
+        >
+          <li
+            class="navContainer"
+          >
+            <a
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="navContainer"
+          >
+            <a
+              href="/category"
+            >
+              Category
+            </a>
+          </li>
+          <li
+            class="navContainer"
+          >
+            <a
+              href="/aboutus"
+            >
+              About Us
+            </a>
+          </li>
+          <li
+            class="navContainer"
+          >
+            <a
+              href="/contactus"
+            >
+              Contact Us
+            </a>
+          </li>
+          <li
+            class="navContainer"
+          >
+            <a
+              href="/login"
+            >
+              Log In
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <br />
+    </div>
+    <br />
+    <div>
+      <img
+        alt="home"
+        height="800"
+        src="homeImg.jpg"
+        width="2000"
+      />
+      <p
+        class="text"
+      >
+         Wonderful Recipe Bring You Happy Life!
+      </p>
+    </div>
+    <h1
+      class="text"
+    >
+      Top 3 Recipe
+    </h1>
+    <ul
+      class="list"
+    >
+      <li>
+        <img
+          alt="waffle"
+          height="400"
+          src="waffleImg.jpg"
+          width="600"
+        />
+        <p>
+          Top 1: Butter Waffle
+        </p>
+      </li>
+      <li>
+        <img
+          alt="sandwiches"
+          height="400"
+          src="sandwichImg.jpg"
+          width="600"
+        />
+        <p>
+          Top 2: Chicken Sandwich
+        </p>
+      </li>
+      <li>
+        <img
+          alt="noodle"
+          height="400"
+          src="noodleImg.jpg"
+          width="600"
+        />
+        <p>
+          Top 3: Italian Noodle
+        </p>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
 exports[`renders the home component correctly 1`] = `
 <div>
   <div>

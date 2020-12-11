@@ -1,0 +1,8 @@
+.main {
+    height: 100vh;
+    width: 100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-image: url(https://i.ytimg.com/vi/Hbdk2_1ZU3o/maxresdefault.jpg);
+  }

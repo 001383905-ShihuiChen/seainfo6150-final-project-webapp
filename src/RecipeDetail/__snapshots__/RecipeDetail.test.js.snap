@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the BookCoverImage component correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="details"
+    >
+      <h2>
+        See what people said
+      </h2>
+      <p>
+        This is great for a special brunch or even a quick and easy dinner. Other breakfast meats can be used, but the deli ham is the easiest since it is already fully cooked.
+      </p>
+    </div>
+    <div
+      class="details"
+    >
+      <h2>
+        Direction
+      </h2>
+      <p />
+    </div>
+  </div>
+</div>
+`;

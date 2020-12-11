@@ -1,0 +1,10 @@
+.form{
+    text-align: center;
+    font-weight: bolder;
+    font-size:200%;
+}
+.container{
+    background-image: url("../images/navBarImg.jpg");
+    height: 1000px;
+    
+}

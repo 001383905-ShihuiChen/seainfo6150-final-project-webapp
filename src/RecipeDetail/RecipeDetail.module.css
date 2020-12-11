@@ -1,0 +1,21 @@
+.details {
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: #b88282;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+    color: #301d11;
+    font-family: 'Balsamiq Sans', cursive;
+    box-shadow: 5px 5px 10px #ffcccc;
+    border: 5px solid #984949;
+  }
+.container{
+    margin-left: auto; 
+    margin-right:auto; 
+    display:block;
+}
+
+  

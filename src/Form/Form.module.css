@@ -1,0 +1,23 @@
+.container {
+    
+        background-image: url("../images/navBarImg.jpg");
+        height: 1000px;
+    
+    padding: 50px;
+    font-size: 150%;
+    color: #370230;
+    text-align: left;
+    line-height: 25px;
+  }
+  
+  
+  .reviewTextField {
+    height: 100px;
+    width: 200px;
+  }
+  
+  @media (min-width: 900px) {
+    .reviewTextField {
+      width: 400px;
+    }
+  }

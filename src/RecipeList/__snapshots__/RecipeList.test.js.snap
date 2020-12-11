@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the RecipeList component correctly 1`] = `
+<div>
+  <div>
+    <h1
+      class="container"
+    >
+      Wonderful Recipe
+    </h1>
+    <nav>
+      <ul
+        class="list"
+      >
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/category"
+          >
+            Category
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/aboutus"
+          >
+            About Us
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/contactus"
+          >
+            Contact Us
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/login"
+          >
+            Log In
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <br />
+  </div>
+  <div
+    class="wholeDiv"
+  >
+    <div
+      class="titleDiv"
+    >
+      <h1>
+        Let's find your own recipe!
+      </h1>
+    </div>
+    <ul
+      class="recipeList"
+    >
+      <a
+        class="clickBlock"
+        href="/recipe/breakfast/001-h"
+      >
+        <li>
+          <div>
+            <div
+              class="imageStyle"
+            >
+              <img
+                alt="Ham and Cheese Breakfast Tortillas"
+                src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536480.jpg&w=596&h=596&c=sc&poi=face&q=85"
+              />
+            </div>
+            <p>
+              Ham and Cheese Breakfast Tortillas
+            </p>
+          </div>
+        </li>
+      </a>
+      <a
+        class="clickBlock"
+        href="/recipe/breakfast/002-q"
+      >
+        <li>
+          <div>
+            <div
+              class="imageStyle"
+            >
+              <img
+                alt="Quick & Crispy Home Fries"
+                src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6991200.jpg&w=596&h=596&c=sc&poi=face&q=85"
+              />
+            </div>
+            <p>
+              Quick & Crispy Home Fries
+            </p>
+          </div>
+        </li>
+      </a>
+    </ul>
+  </div>
+</div>
+`;

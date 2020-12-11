@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Header component correctly 1`] = `
+<div>
+  <div>
+    <h1
+      class="container"
+    >
+      Wonderful Recipe
+    </h1>
+    <nav>
+      <ul
+        class="list"
+      >
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/category"
+          >
+            Category
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/aboutus"
+          >
+            About Us
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/contactus"
+          >
+            Contact Us
+          </a>
+        </li>
+        <li
+          class="navContainer"
+        >
+          <a
+            href="/login"
+          >
+            Log In
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <br />
+  </div>
+</div>
+`;
